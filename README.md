@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Jo  
 
-<!--
-**wavetonet/wavetonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **UI/UX Designer & Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+**Languages & Tools**  
+- JavaScript (JS)  
+- Java  
+- C++  
+- C  
+- Python
+---
+
+##  About Me
+- I believe in the humanity of design, there is always purpose to what we are building. I do consider it to be magically when design meets function. 
+- I specialize in **UI/UX design** — with a niche in **UI facelifts & redesigns**!
+- Always exploring new ways to merge creativity with functionality.  
+- Focused on building designs that **delight users** and **make navigation easier**.  
+
+---
+
+## Highlights
+- Designed and optimized multiple **UI/UX projects** with improved usability scores.  
+- Experienced in **cross‑platform development** with JS, Java, and C++.  
+- Strong foundation in **human‑centered design principles**.  
+- Passionate about **bridging design and code** for impactful products.  
+
+---
+
+## Connect with Me
+- Email: [cordovajohana.edu@gmail.com]  
+- Leetcode: [https://leetcode.com/u/wave2net/]
+
+---
+ *"Every Second Counts"* – me (clairo and from the bear)
