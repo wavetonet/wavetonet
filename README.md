@@ -4,29 +4,18 @@
 
 ---
 
-##  Tech Stack
-**Languages & Tools**  
-- JavaScript (JS)  
-- Java  
-- C++  
-- C  
-- Python
----
+##  About Me (˶˃ ᵕ ˂˶)
+- I believe in the humanity of design, there is always purpose to what we are building. I do consider it to be magically when design meets function.
+- Anything done is done because of interest or sudden motivation. These days, I do redesigns/reskins of websites that I like. 
+- I specialize in **UI/UX design**!
 
-##  About Me
-- I believe in the humanity of design, there is always purpose to what we are building. I do consider it to be magically when design meets function. 
-- I specialize in **UI/UX design** — with a niche in **UI facelifts & redesigns**!
-- Always exploring new ways to merge creativity with functionality.  
-- Focused on building designs that **delight users** and **make navigation easier**.  
 
 ---
+---
 
-## Highlights
-- Designed and optimized multiple **UI/UX projects** with improved usability scores.  
-- Experienced in **cross‑platform development** with JS, Java, and C++.  
-- Strong foundation in **human‑centered design principles**.  
-- Passionate about **bridging design and code** for impactful products.  
-
+## ★Tech Stack 
+- Languages: JavaScript, Java, C++, C, Python (Though I mostly code in Java these days) 
+- Creative Tools: Figma, Canva, Photoshop, Illustrator, Blender
 ---
 
 ## Connect with Me
@@ -34,4 +23,4 @@
 - Leetcode: [https://leetcode.com/u/wave2net/]
 
 ---
- *"Every Second Counts"* – me (clairo and from the bear)
+🎏*"Every Second Counts"* – me (clairo and from the bear). ݁₊ ⊹ . ݁˖ . ݁
