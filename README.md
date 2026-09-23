@@ -23,4 +23,4 @@
 - Leetcode: [https://leetcode.com/u/wave2net/]
 
 ---
-🎏*"Every Second Counts"* – me (clairo and from the bear). ݁₊ ⊹ . ݁˖ . ݁
+🎏 *"Every Second Counts"* – me (clairo and from the bear). ݁₊ ⊹ . ݁˖ . ݁
